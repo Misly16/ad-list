@@ -1,2 +1,1 @@
-srv.carbonads.net###carboncontainer
-srv.carbonads.net##.bd-header-carbon
+srv.carbonads.net/*
