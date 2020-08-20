@@ -1,3 +1,6 @@
 srv.carbonads.net/*
 ! carbonads srv
 *.jgthms.com/*
+*.googlesyndication.com/*
+*.doubleclick.net/*
+*.rubiconproject.com/*
